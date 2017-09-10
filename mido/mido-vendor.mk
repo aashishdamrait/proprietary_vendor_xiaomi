@@ -1093,6 +1093,7 @@ PRODUCT_PACKAGES += \
     qcrilmsgtunnel \
     ims \
     imssettings \
+    qti-vzw-ims-internal \
     com.qti.location.sdk \
     qcrilhook \
     qdcm_calib_data_nt35532_fhd_video_mode_dsi_panel \
