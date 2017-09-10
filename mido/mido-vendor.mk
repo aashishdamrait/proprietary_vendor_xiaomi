@@ -136,6 +136,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/mido/proprietary/etc/permissions/imscm.xml:system/etc/permissions/imscm.xml \
     vendor/xiaomi/mido/proprietary/etc/permissions/izat.xt.srv.xml:system/etc/permissions/izat.xt.srv.xml \
     vendor/xiaomi/mido/proprietary/etc/permissions/qcrilhook.xml:system/etc/permissions/qcrilhook.xml \
+    vendor/xiaomi/mido/proprietary/etc/permissions/qti-vzw-ims-internal.xml:system/etc/permissions/qti-vzw-ims-internal.xml \
     vendor/xiaomi/mido/proprietary/etc/permissions/qti_permissions.xml:system/etc/permissions/qti_permissions.xml \
     vendor/xiaomi/mido/proprietary/etc/permissions/telephonyservice.xml:system/etc/permissions/telephonyservice.xml \
     vendor/xiaomi/mido/proprietary/etc/surround_sound_3mic/surround_sound_rec_5.1.cfg:system/etc/surround_sound_3mic/surround_sound_rec_5.1.cfg \
@@ -146,6 +147,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/mido/proprietary/framework/cneapiclient.jar:system/framework/cneapiclient.jar \
     vendor/xiaomi/mido/proprietary/framework/com.qti.dpmframework.jar:system/framework/com.qti.dpmframework.jar \
     vendor/xiaomi/mido/proprietary/framework/com.qti.snapdragon.sdk.display.jar:system/framework/com.qti.snapdragon.sdk.display.jar \
+    vendor/xiaomi/mido/proprietary/framework/qti-vzw-ims-internal.jar:system/framework/qti-vzw-ims-internal.jar \
     vendor/xiaomi/mido/proprietary/framework/com.qualcomm.location.vzw_library.jar:system/framework/com.qualcomm.location.vzw_library.jar \
     vendor/xiaomi/mido/proprietary/framework/com.quicinc.cne.jar:system/framework/com.quicinc.cne.jar \
     vendor/xiaomi/mido/proprietary/framework/dpmapi.jar:system/framework/dpmapi.jar \
